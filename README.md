@@ -3,5 +3,5 @@ Jai Tutorials, Cheatsheets, Modules, and Libraries, written by the Jai Beta Comm
 
 The [Wiki](https://github.com/Jai-Community/Jai-Community-Library/wiki) is the place to go ;)
 
-If you are a Jai beta user and feel like contributing, ask in the Jai Secreta Beta Discord!
+If you are a Jai beta user and feel like contributing, ask in the Jai Secret Beta Discord!
 Currently, only members of the Jai-beta group have editing access to this repo.
