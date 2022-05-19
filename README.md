@@ -6,4 +6,4 @@ The [Wiki](https://github.com/Jai-Community/Jai-Community-Library/wiki) is the p
 Also check out [Jai Community](https://jai.community/) discourse Wiki ;)
 
 If you are a Jai beta user and feel like contributing, ask in the Jai Secret Beta Discord!
-Currently, only members of the Jai-beta group have editing access to this repo.
+Members of the Jai-beta group have editing access to this repo.
